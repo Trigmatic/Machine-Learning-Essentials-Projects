@@ -1,1 +1,1 @@
-
+By utilizing a dataset comprising hourly reports of air quality and weather spanning five (5) years, I employ a Long Short-Term Memory (LSTM) model to forecast the historical pollution and weather conditions in Beijing, China.
